@@ -16,3 +16,16 @@ install.html (or at http://www.splint.org/source.html).
 
 For documentation on Splint, please see http://www.splint.org
 
+********************
+
+How to build for Mac OS 10.10
+April 2015
+
+This is pretty simple now. 
+1. Check out the repository and cd into the splint directory
+2. sudo ./configure
+3. sudo make install
+
+You will get some failed tests but splint now builds fine.
+
+
